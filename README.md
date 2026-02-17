@@ -1,4 +1,4 @@
-# Todo Console App - Phase 2: Foundation ✅
+# Todo- Phase 2: Foundation ✅
 
 **Hackathon Project - Phase 2**
 **Status**: Foundation Complete
